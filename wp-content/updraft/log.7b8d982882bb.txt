@@ -1,0 +1,303 @@
+0000.001 (0) Opened log file at time: Mon, 22 Apr 2024 12:40:16 +0000 on http://localhost/kalanso_academy/wordpress
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.2 WP: 6.5.2 PHP: 8.2.4 (apache2handler, Windows NT DCIREODCPR10 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 70.4M | 74M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 125538.4 MB
+0000.010 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.015 (0) Semaphore (fd, wp_options) being initialised
+0000.023 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.033 (0) Set semaphore last lock (fd) time to 2024-04-22 12:40:16
+0000.036 (0) Semaphore lock (fd) complete
+0000.046 (0) Backup run: resumption=0, nonce=7b8d982882bb, file_nonce=7b8d982882bb begun at=1713789616 (0s ago), job type=backup
+0000.052 (0) Scheduling a resumption (1) after 300 seconds (1713789916) in case this run gets aborted
+0000.072 (0) Checking if we have a zip executable available
+0000.077 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.080 (0) Creation of backups of directories: beginning
+0000.092 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.636 (0) Total entities for the zip file: 1033 directories, 4738 files (0 skipped as non-modified), 101.6 MB
+0001.639 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 103998.2 KB, split: 409600 KB)
+0001.681 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.712 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.744 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.779 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.815 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.846 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.870 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.907 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.931 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.967 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0002.003 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0002.041 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0002.066 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0002.090 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0002.128 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0002.169 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0002.192 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0002.220 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0002.244 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0002.265 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0002.285 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0002.304 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0002.324 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0002.346 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0002.380 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0002.404 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0002.447 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0002.489 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0002.534 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0002.557 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0002.577 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0002.597 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0002.616 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0002.660 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0002.695 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0002.733 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0002.777 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0002.803 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0002.823 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0002.844 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0002.876 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0002.915 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0002.958 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0003.003 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0003.029 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0003.049 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0003.069 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0115.058 (0) Creating zip file manifest (backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.list-temp.tmp)
+0115.148 (0) Successfully created zip file manifest (size: 379234)
+0115.614 (0) Created plugins zip (0) - 28131.6 KB in 115.5 s (243.6 KB/s) (sha1: 029811e63e4ea80fe3db91aa6b1da1ab0bc28c5d, sha256: f412d2051bd5d243f342131b9a66406fd2d6154858fedb157b493b7cef6edc2f)
+0115.731 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0115.766 (0) No remote despatch: user chose no remote backup service
+0115.801 (0) Recording as successfully uploaded: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip
+0115.873 (0) Deleting zip manifest (backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip.list.tmp)
+0115.888 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0115.892 (0) Number of backup sets in history: 0; groups (db): 1
+0115.895 (0) Number of backup sets in history: 0; groups (files): 1
+0115.904 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0115.929 (0) Beginning creation of dump of themes (split every: 400 MB)
+0116.421 (0) Total entities for the zip file: 347 directories, 1023 files (0 skipped as non-modified), 30.4 MB
+0116.424 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 31167.3 KB, split: 409600 KB)
+0116.455 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0116.489 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0116.547 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0116.591 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0116.643 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0116.687 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0116.736 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0116.772 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0116.797 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0116.832 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0141.190 (0) Creating zip file manifest (backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.list-temp.tmp)
+0141.201 (0) Successfully created zip file manifest (size: 84416)
+0141.444 (0) Created themes zip (0) - 16528.5 KB in 25.5 s (648 KB/s) (sha1: 3980743828b4ad6c851d17b1212bf343a215eb1f, sha256: a1698f47d7aacfcbf5270d20f38854cd8f91bd5638b3a8a1251fdec51dabed04)
+0141.457 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0141.460 (0) No remote despatch: user chose no remote backup service
+0141.463 (0) Recording as successfully uploaded: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip
+0141.470 (0) Deleting zip manifest (backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip.list.tmp)
+0141.476 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0141.479 (0) Number of backup sets in history: 0; groups (db): 1
+0141.481 (0) Number of backup sets in history: 0; groups (files): 1
+0141.484 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0141.502 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0141.505 (0) Looking for candidates to backup in: C:\xampp\htdocs\kalanso_academy\wordpress/wp-content/uploads
+0141.509 (0) finding files: 2024: adding to list (1)
+0141.512 (0) finding files: elementor: adding to list (2)
+0141.516 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0141.555 (0) Total entities for the zip file: 4 directories, 52 files (0 skipped as non-modified), 16 MB
+0141.558 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 16406 KB, split: 409600 KB)
+0142.396 (0) Creating zip file manifest (backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-uploads.zip.list-temp.tmp)
+0142.400 (0) Successfully created zip file manifest (size: 2591)
+0142.595 (0) Created uploads zip (0) - 16228.8 KB in 1.1 s (15169.9 KB/s) (sha1: 82a411a3cc3489255b1600c79c19f5d7c6ae4708, sha256: 2a37b3c263cb435aa4ab5b42c1766b2bbd7888be894dca9a4ad0146c1ad0aa72)
+0142.602 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0142.605 (0) No remote despatch: user chose no remote backup service
+0142.607 (0) Recording as successfully uploaded: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-uploads.zip
+0142.612 (0) Deleting zip manifest (backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-uploads.zip.list.tmp)
+0142.618 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0142.622 (0) Number of backup sets in history: 0; groups (db): 1
+0142.624 (0) Number of backup sets in history: 0; groups (files): 1
+0142.627 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0142.640 (0) No backup of mu-plugins: excluded by user's options
+0142.646 (0) Beginning backup of other directories found in the content directory (index: 0)
+0142.650 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0142.654 (0) Looking for candidates to backup in: C:\xampp\htdocs\kalanso_academy\wordpress/wp-content
+0142.657 (0) finding files: index.php: adding to list (1)
+0142.660 (0) finding files: languages: adding to list (2)
+0142.664 (0) finding files: plugins: skipping: this is the plugins directory
+0142.667 (0) finding files: themes: skipping: this is the themes directory
+0142.670 (0) finding files: updraft: skipping: this is the updraft directory
+0142.673 (0) finding files: upgrade: skipping: excluded by options
+0142.677 (0) finding files: uploads: skipping: this is the uploads directory
+0142.747 (0) Total entities for the zip file: 3 directories, 178 files (0 skipped as non-modified), 6.7 MB
+0142.755 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 6830.7 KB, split: 409600 KB)
+0142.777 (0) Zip: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0143.728 (0) Creating zip file manifest (backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-others.zip.list-temp.tmp)
+0143.731 (0) Successfully created zip file manifest (size: 12308)
+0143.780 (0) Created others zip (0) - 1963.8 KB in 1.1 s (1797 KB/s) (sha1: eea6b626271e723f1be0741a9437f667a665c472, sha256: 1f836852825dc05422e435dbc8231c83bda4ae745142feeb9135d18bf4992909)
+0143.791 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0143.795 (0) No remote despatch: user chose no remote backup service
+0143.798 (0) Recording as successfully uploaded: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-others.zip
+0143.805 (0) Deleting zip manifest (backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-others.zip.list.tmp)
+0143.812 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0143.816 (0) Number of backup sets in history: 0; groups (db): 1
+0143.819 (0) Number of backup sets in history: 0; groups (files): 1
+0143.822 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0143.845 (0) Saving backup status to database (elements: 8)
+0143.852 (0) Beginning creation of database dump (WordPress DB)
+0143.856 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0143.863 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0144.059 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */;\n (truncated - 1232 bytes total)
+0144.062 (0) Binary mysqldump: error (code: 2)
+0144.114 (0) Table wp_options: Total expected rows (via COUNT): 289
+0144.117 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.183 (0) Table wp_options: Rows added in this batch (next record: 631): 285 (uncompressed bytes in this segment=1537798) in 0.11 seconds
+0144.199 (0) Table wp_options: finishing file(s) (2, 163.5 KB)
+0144.226 (0) Table wp_users: Total expected rows (via COUNT): 1
+0144.229 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.235 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1183) in 0.03 seconds
+0144.247 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0144.266 (0) Table wp_usermeta: Total expected rows (via COUNT): 29
+0144.268 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.274 (0) Table wp_usermeta: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=3989) in 0.02 seconds
+0144.288 (0) Table wp_usermeta: finishing file(s) (2, 2 KB)
+0144.317 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0144.323 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.03 seconds
+0144.338 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0144.362 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0144.365 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.373 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2001) in 0.03 seconds
+0144.387 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0144.422 (0) Table wp_links: Total expected rows (via COUNT): 0
+0144.429 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.03 seconds
+0144.444 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0144.579 (0) Table wp_postmeta: Total expected rows (approximate): 1141
+0144.718 (0) Table wp_postmeta: Rows added in this batch (next record: 1471): 1240 (uncompressed bytes in this segment=6934245) in 0.27 seconds
+0144.734 (0) Table wp_postmeta: finishing file(s) (2, 826.2 KB)
+0144.767 (0) Table wp_posts: Total expected rows (via COUNT): 224
+0144.770 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.803 (0) Table wp_posts: Rows added in this batch (next record: 250): 224 (uncompressed bytes in this segment=635549) in 0.06 seconds
+0144.820 (0) Table wp_posts: finishing file(s) (2, 33.8 KB)
+0144.846 (0) Table wp_term_relationships: Total expected rows (approximate): 7
+0144.852 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 8 (uncompressed bytes in this segment=787) in 0.02 seconds
+0144.863 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0144.893 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 5
+0144.897 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.905 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 6): 5 (uncompressed bytes in this segment=996) in 0.03 seconds
+0144.924 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0144.954 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0144.959 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.02 seconds
+0144.972 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0144.994 (0) Table wp_terms: Total expected rows (via COUNT): 5
+0144.996 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0145.002 (0) Table wp_terms: Rows added in this batch (next record: 6): 5 (uncompressed bytes in this segment=807) in 0.02 seconds
+0145.013 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0145.045 (0) Table wp_e_events: Total expected rows (via COUNT): 2
+0145.048 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0145.051 (0) Table wp_e_events: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=958) in 0.03 seconds
+0145.060 (0) Table wp_e_events: finishing file(s) (2, 0.5 KB)
+0145.079 (0) Table wp_e_submissions: Total expected rows (via COUNT): 1
+0145.081 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0145.084 (0) Table wp_e_submissions: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2465) in 0.02 seconds
+0145.094 (0) Table wp_e_submissions: finishing file(s) (2, 1 KB)
+0145.121 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 1
+0145.123 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0145.126 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1389) in 0.02 seconds
+0145.139 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.6 KB)
+0145.164 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 3
+0145.166 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0145.169 (0) Table wp_e_submissions_values: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=844) in 0.02 seconds
+0145.190 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.5 KB)
+0145.219 (0) Table wp_mystickymenu_contact_lists: Total expected rows (via COUNT): 0
+0145.225 (0) Table wp_mystickymenu_contact_lists: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=782) in 0.02 seconds
+0145.239 (0) Table wp_mystickymenu_contact_lists: finishing file(s) (2, 0.4 KB)
+0145.271 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 18
+0145.273 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0145.281 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 18): 18 (uncompressed bytes in this segment=13120) in 0.03 seconds
+0145.298 (0) Table wp_yoast_indexable: finishing file(s) (2, 2.4 KB)
+0145.318 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 15
+0145.325 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 15 (uncompressed bytes in this segment=1030) in 0.02 seconds
+0145.338 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0145.370 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+0145.373 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0145.381 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1234) in 0.03 seconds
+0145.396 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0145.428 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0145.433 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=829) in 0.03 seconds
+0145.444 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0145.471 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 27
+0145.473 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0145.480 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 27): 27 (uncompressed bytes in this segment=4914) in 0.03 seconds
+0145.490 (0) Table wp_yoast_seo_links: finishing file(s) (2, 1.3 KB)
+0145.492 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\kalanso_academy\wordpress/wp-content/updraft/backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db.gz (line 1925, C:\xampp\htdocs\kalanso_academy\wordpress\wp-content\plugins\updraftplus\backup.php)
+0145.495 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_options.table.tmpr632.gz (1/22/fopen): adding to final database dump
+0145.501 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_options.table.gz (2/22/fopen): adding to final database dump
+0145.504 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_users.table.tmpr2.gz (3/22/fopen): adding to final database dump
+0145.507 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_users.table.gz (4/22/fopen): adding to final database dump
+0145.510 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_usermeta.table.tmpr30.gz (5/22/fopen): adding to final database dump
+0145.514 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_usermeta.table.gz (6/22/fopen): adding to final database dump
+0145.517 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_commentmeta.table.tmpr0.gz (7/22/fopen): adding to final database dump
+0145.521 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_commentmeta.table.gz (8/22/fopen): adding to final database dump
+0145.524 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_comments.table.tmpr2.gz (9/22/fopen): adding to final database dump
+0145.550 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_comments.table.gz (10/22/fopen): adding to final database dump
+0145.553 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_links.table.tmpr0.gz (11/22/fopen): adding to final database dump
+0145.557 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_links.table.gz (12/22/fopen): adding to final database dump
+0145.561 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_postmeta.table.tmpr1472.gz (13/22/fopen): adding to final database dump
+0145.609 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_postmeta.table.gz (14/22/fopen): adding to final database dump
+0145.612 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_posts.table.tmpr251.gz (15/22/fopen): adding to final database dump
+0145.615 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_posts.table.gz (16/22/fopen): adding to final database dump
+0145.618 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_term_relationships.table.tmpr100001.gz (17/22/fopen): adding to final database dump
+0145.621 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_term_relationships.table.gz (18/22/fopen): adding to final database dump
+0145.624 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_term_taxonomy.table.tmpr7.gz (19/22/fopen): adding to final database dump
+0145.628 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_term_taxonomy.table.gz (20/22/fopen): adding to final database dump
+0145.631 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_termmeta.table.tmpr0.gz (21/22/fopen): adding to final database dump
+0145.634 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_termmeta.table.gz (22/22/fopen): adding to final database dump
+0145.638 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_terms.table.tmpr7.gz (23/22/fopen): adding to final database dump
+0145.641 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_terms.table.gz (24/22/fopen): adding to final database dump
+0145.645 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_e_events.table.tmpr3.gz (25/22/fopen): adding to final database dump
+0145.648 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_e_events.table.gz (26/22/fopen): adding to final database dump
+0145.652 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_e_submissions.table.tmpr2.gz (27/22/fopen): adding to final database dump
+0145.655 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_e_submissions.table.gz (28/22/fopen): adding to final database dump
+0145.659 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_e_submissions_actions_log.table.tmpr2.gz (29/22/fopen): adding to final database dump
+0145.662 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_e_submissions_actions_log.table.gz (30/22/fopen): adding to final database dump
+0145.666 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_e_submissions_values.table.tmpr4.gz (31/22/fopen): adding to final database dump
+0145.670 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_e_submissions_values.table.gz (32/22/fopen): adding to final database dump
+0145.674 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_mystickymenu_contact_lists.table.tmpr0.gz (33/22/fopen): adding to final database dump
+0145.677 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_mystickymenu_contact_lists.table.gz (34/22/fopen): adding to final database dump
+0145.682 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_yoast_indexable.table.tmpr19.gz (35/22/fopen): adding to final database dump
+0145.685 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_yoast_indexable.table.gz (36/22/fopen): adding to final database dump
+0145.689 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (37/22/fopen): adding to final database dump
+0145.693 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_yoast_indexable_hierarchy.table.gz (38/22/fopen): adding to final database dump
+0145.696 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_yoast_migrations.table.tmpr25.gz (39/22/fopen): adding to final database dump
+0145.700 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_yoast_migrations.table.gz (40/22/fopen): adding to final database dump
+0145.704 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_yoast_primary_term.table.tmpr0.gz (41/22/fopen): adding to final database dump
+0145.708 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_yoast_primary_term.table.gz (42/22/fopen): adding to final database dump
+0145.711 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_yoast_seo_links.table.tmpr28.gz (43/22/fopen): adding to final database dump
+0145.715 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db-table-wp_yoast_seo_links.table.gz (44/22/fopen): adding to final database dump
+0145.783 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db.gz: finished writing out complete database file (1037.8 KB)
+0145.828 (0) Total database tables backed up: 22 (backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db.gz, size: 1062835, sha1: 266f9cedaeae6accdba1f36d9a67c2d17cf5c7ee, sha256: 72ebac4c3da61e38ede6d4ee39217bcc4efe906339452892f1e790226d4bb84a)
+0145.843 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-plugins.zip: plugins: This file has already been successfully uploaded
+0145.846 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-themes.zip: themes: This file has already been successfully uploaded
+0145.849 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-uploads.zip: uploads: This file has already been successfully uploaded
+0145.852 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-others.zip: others: This file has already been successfully uploaded
+0145.855 (0) backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db.gz: db: This file has not yet been successfully uploaded: will queue
+0145.859 (0) Saving backup history. Total backup size: 62.4 MB
+0145.866 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0145.877 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0145.880 (0) No remote despatch: user chose no remote backup service
+0145.884 (0) Recording as successfully uploaded: backup_2024-04-22-1440_Kalanso_Academy_7b8d982882bb-db.gz
+0145.894 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0145.898 (0) Number of backup sets in history: 1; groups (db): 1
+0145.901 (0) Examining (for databases) backup set with group_id=0, nonce=7b8d982882bb, datestamp=1713789616 (Apr 22 2024 12:40:16)
+0145.904 (0) This backup set is the backup set just made, so will not be deleted.
+0145.904 (0) Number of backup sets in history: 1; groups (files): 1
+0145.907 (0) Examining (for files) backup set with nonce=7b8d982882bb, datestamp=1713789616 (Apr 22 2024 12:40:16)
+0145.907 (0) This backup set is the backup set just made, so will not be deleted.
+0145.910 (0) This backup set is the backup set just made, so will not be deleted.
+0145.911 (0) This backup set is the backup set just made, so will not be deleted.
+0145.911 (0) This backup set is the backup set just made, so will not be deleted.
+0145.911 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0145.914 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0145.921 (0) Resume backup (7b8d982882bb, 0): finish run
+0145.929 (0) Decremented the semaphore (fd) by 1
+0145.939 (0) Semaphore (fd) unlocked
+0145.942 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0145.951 (0) The backup succeeded and is now complete
+0145.956 (0) No email will/can be sent - the user has not configured an email address.
+0145.959 (0) La sauvegarde a réussi et est maintenant terminée
